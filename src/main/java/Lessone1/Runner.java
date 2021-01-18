@@ -6,3 +6,6 @@ public interface Runner {
     int getRunLimit();
 
 }
+
+
+//Бег

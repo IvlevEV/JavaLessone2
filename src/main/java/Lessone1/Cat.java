@@ -36,3 +36,6 @@ public class Cat implements Activity {
         return name;
     }
 }
+
+
+//Коты

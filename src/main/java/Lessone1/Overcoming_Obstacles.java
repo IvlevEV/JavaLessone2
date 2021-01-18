@@ -11,6 +11,9 @@ public interface Overcoming_Obstacles {
                 return;
             }
         }
+
         System.out.println("Все препятствия были покорены " + getName());
     }
 }
+
+//Проверка на все. Если булеан  boolean take(Activity activity) != true то что то не прошел и выводим ошибку

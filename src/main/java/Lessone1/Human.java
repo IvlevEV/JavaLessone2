@@ -38,3 +38,6 @@ public class Human implements Activity {
     }
 
 }
+
+
+// Люди чеолвекии

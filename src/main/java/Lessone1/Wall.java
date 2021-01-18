@@ -19,3 +19,6 @@ public class Wall implements Lessone1.Obstacle {
         return "Стена" + "[ высотой = " + height + ']';
     }
 }
+
+
+//Стена

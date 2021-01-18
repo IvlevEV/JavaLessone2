@@ -18,3 +18,6 @@ public class Treadmill implements Lessone1.Obstacle {
         return "Беговая дорожка" + "[ длиной = " + length +']';
     }
 }
+
+
+//Беговая дорожка

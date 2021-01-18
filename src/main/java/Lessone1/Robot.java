@@ -38,3 +38,6 @@ public class Robot implements Activity {
     }
 
 }
+
+
+// Робот, так же как человек
